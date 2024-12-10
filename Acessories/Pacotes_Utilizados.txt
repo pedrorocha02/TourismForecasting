@@ -1,0 +1,5 @@
+matplotlib - Elaboração de Gráficos
+pandas
+sklearn
+numpy
+statsmodels

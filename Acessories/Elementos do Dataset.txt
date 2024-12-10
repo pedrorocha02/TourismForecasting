@@ -1,0 +1,23 @@
+Parâmetros do dataset final:
+
+Date
+Year
+Month
+Month Name
+Reservations- TURIHAB Mensal
+Nights - TURIHAB Mensal
+Available Beds - TURIHAB Mensal
+Occupied Beds - TURIHAB Mensal
+Portugal Tourist Arrivals - Dados Globais Mensal
+Google Trends Terms - Dados Globais Mensal
+Political Stability - Dados Globais Anual
+Brent Price - Dados Globais Diário
+Inflation - Dados Globais Trimestre
+Health - Dados Globais Anual
+
+Fórmula a ser calculada:
+Bed Occupancy Rate (BOR)
+
+Features que posso adicionar e que segundo artigos que li, beneficiam o modelo de previsão:
+- Season (Summer; Winter; Fall; Spring) - Detetar a época com mais reservas/ocupação.
+- Number of holidays per month - Feriados podem ajudar no prolongamento de noites por reservas. 
