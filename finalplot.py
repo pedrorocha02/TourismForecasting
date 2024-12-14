@@ -17,7 +17,7 @@ for column in data.columns[2:]:  # Exclude 'Date' and 'Real' columns
 
 plt.xlabel('Data', fontsize=12)
 plt.ylabel('Taxa Líquida de Ocupação-Cama (%)', fontsize=12)
-plt.title('Comparação entre Valores Reais e Previstos pelos diferentes modelos', fontsize=16)
+plt.title('Comparação entre Valores Reais e Previstos: Modelo Random Forest', fontsize=16)
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
