@@ -10,10 +10,10 @@ This repository contains code and resources for forecasting tourism data using v
 - **02_SARIMAX.py**: Refines the SARIMAX model with additional parameters and data preprocessing.
 - **03_Randforest.py**: Final version of the Random Forest model with optimized parameters.
 - **03_SARIMAX.py**: Final version of the SARIMAX model with optimized parameters.
-- **2425preview.py**: Generates the forecast for the years 2024 and 2025.
+- **2425preview.py**: Generates the forecast for the 2024 and 2025 years.
 - **train_test_plot.py**: Plots the distribution of the training and testing datasets.
 - **variablecorrelation.py**: Presents the correlation of non-object type variables in the dataset with the target variable (TOL).
-- **plot.py**: Helps in reproducing the graphs.
+- **plot.py**: Function that as the template to reproduce the graphs.
 - **Dataset_Final.xlsx**: The dataset used by the models.
 
 ## Results
